@@ -4,9 +4,9 @@ By Griffin Deberry
 
 ## Code:
 python code printing "Assignment 1:"
-```python
+<code>
 print{"Assignment 1:"}
-```
+</code>
 
 ### Image:
 A picture of a cat that looks like Slyvester from Looney Tunes.
